@@ -3,6 +3,7 @@
 ## Dependencies
 * OpenCV
 * numpy
+* pillow
 
 ## Run This Program
 * Run `main.py` to quantitatively compute similarity between two icons.
